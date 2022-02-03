@@ -11,6 +11,7 @@ OPC-UA_ServerClientReadWrite
 
   Source:   https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/advanced-communication/sce-092-303-opc-ua-s7-1500-node-red-de.pdf
             https://support.elsist.biz/de/articoli/opc-ua-client-con-node-red/
+![grafik](https://user-images.githubusercontent.com/23342140/152413539-e4f8f22c-6507-4c85-ab85-b28116353207.png)
 ________________________________________________________________________________
 CalcTimeDifferent
   this calculate the Timedifferent bettween to timestamps.
