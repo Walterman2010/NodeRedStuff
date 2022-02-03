@@ -12,3 +12,9 @@ OPC-UA_ServerClientReadWrite
   Source:   https://www.automation.siemens.com/sce-static/learning-training-documents/tia-portal/advanced-communication/sce-092-303-opc-ua-s7-1500-node-red-de.pdf
             https://support.elsist.biz/de/articoli/opc-ua-client-con-node-red/
 ________________________________________________________________________________
+CalcTimeDifferent
+  this calculate the Timedifferent bettween to timestamps.
+   1. the time Stamp will send, with the delay by mqtt.
+   2. the mqtt timestamp and the aktual timestamp will be subtrahiert
+   3. the difference will shown on the dashbord
+________________________________________________________________________________
