@@ -17,4 +17,7 @@ CalcTimeDifferent
    1. the time Stamp will send, with the delay by mqtt.
    2. the mqtt timestamp and the aktual timestamp will be subtrahiert
    3. the difference will shown on the dashbord
+  
+ ![grafik](https://user-images.githubusercontent.com/23342140/152413167-dfb2bfef-1b0b-4fc3-88b8-afe417a15197.png)
+
 ________________________________________________________________________________
