@@ -36,4 +36,12 @@ this Tool is not working jet!
 its try to controll the AVR Net IO. It just not Workin well, hat never time for Debug jet.
 
 ![grafik](https://user-images.githubusercontent.com/23342140/152435019-653f5619-1991-47fb-b845-66f51c54e8aa.png)
+________________________________________________________________________________
+Good_Morning_Alarm
 
+It was not my creation. the creation by Mat Zolnierczyk was just not working. so i did some smal changes in the Day selection and is was working fine. I connected the Alarm to the RCs, to turn on a light to wake me up
+
+Surce:  https://flows.nodered.org/flow/f24cb20846f57eec19ed617b25cb61ae
+        https://flows.nodered.org/flow/7e4bb517ce3a75add0083642ef03e9d8
+        
+![grafik](https://user-images.githubusercontent.com/23342140/152436354-179dbada-7a3f-4588-96dd-9acf12042e53.png)
