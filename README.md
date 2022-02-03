@@ -22,3 +22,8 @@ CalcTimeDifferent
  ![grafik](https://user-images.githubusercontent.com/23342140/152413167-dfb2bfef-1b0b-4fc3-88b8-afe417a15197.png)
 
 ________________________________________________________________________________
+
+
+![grafik](https://user-images.githubusercontent.com/23342140/152432519-21447b68-3c44-4a0e-8dcb-1615df8728dd.png)
+
+
